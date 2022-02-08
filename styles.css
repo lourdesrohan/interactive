@@ -1,17 +1,28 @@
 @import url("https://use.typekit.net/emk7jfr.css");
+@import url("https://use.typekit.net/emk7jfr.css");
+
+html {background-color: #33AB5F}
 
 #top {
-	font-family: museo, serif;
-	font-weight: 900;
-	font-size: 45px;
-	display: inline-block;  padding: 20px 20px; border: 1px; margin: 20px;
+	font-size: 65px;
+	font-family: lores-12, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	color: floralwhite;
 }
 
 body{
 	font-family: museo, serif;
 	font-weight: 300;
 	font-size: 20px;
-	display: inline-block;  padding: 20px 20px; border: 10px; margin: 20px;
+	color:  floralwhite;
+	display: inline-block;  padding: 50px 20px; border: 10px; margin: 20px;
 }
 
+a {
+  color: #D5F591;
+}
 
+a:visited {
+  color: #BFA8BB;
+}
