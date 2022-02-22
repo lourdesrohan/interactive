@@ -51,6 +51,7 @@
 
 .q1 .component-1 {
   align-items: center;
+  cursor: pointer;
   display: flex;
   height: 49px;
   left: 0;
@@ -98,7 +99,7 @@
   width: 579px;
 }
 
-.q1 .image-3 {
+.q1 .purplepaper1 {
   height: 157px;
   left: 0;
   object-fit: cover;
@@ -131,7 +132,7 @@
   width: 669px;
 }
 
-.q1 .image-2 {
+.q1 .purpleflower1 {
   height: 356px;
   left: 311px;
   object-fit: cover;
@@ -140,7 +141,7 @@
   width: 358px;
 }
 
-.q1 .image-1 {
+.q1 .pinkflower1 {
   height: 230px;
   left: 414px;
   object-fit: cover;
@@ -175,7 +176,7 @@
   width: 579px;
 }
 
-.q1 .image-4 {
+.q1 .purpletape1 {
   height: 187px;
   left: 226px;
   object-fit: cover;

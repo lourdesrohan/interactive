@@ -40,7 +40,7 @@
   width: 711px;
 }
 
-.q6 .x1 {
+.q6 .purplecactus {
   height: 446px;
   left: 264px;
   object-fit: cover;
@@ -51,6 +51,7 @@
 
 .q6 .component-6 {
   align-items: center;
+  cursor: pointer;
   display: flex;
   height: 49px;
   left: 0;
@@ -126,7 +127,7 @@
   width: 517px;
 }
 
-.q6 .overlap-group3 {
+.q6 .purple-container {
   height: 520px;
   left: 101px;
   position: absolute;
@@ -134,7 +135,7 @@
   width: 486px;
 }
 
-.q6 .x5 {
+.q6 .purpleribbon {
   height: 520px;
   left: 0;
   object-fit: cover;
@@ -143,7 +144,7 @@
   width: 454px;
 }
 
-.q6 .x2 {
+.q6 .purplewatercolor {
   height: 297px;
   left: 116px;
   object-fit: cover;
@@ -196,7 +197,7 @@
   width: 579px;
 }
 
-.q6 .x4 {
+.q6 .purplepinktape {
   height: 144px;
   left: 58px;
   object-fit: cover;

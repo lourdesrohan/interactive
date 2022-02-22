@@ -9,95 +9,113 @@
   width: 1512px;
 }
 
-.q3 .overlap-group3 {
+.q3 .flex-row {
+  align-items: center;
+  background-image: url(../img/hugepinkribbon@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
   height: 2170px;
   margin-left: -128px;
   margin-top: -610.18px;
-  position: relative;
-  width: 2145px;
+  min-width: 2145px;
+  padding: 347.8px 173.4px;
 }
 
-.q3 .x4 {
-  height: 664px;
-  left: 128px;
-  object-fit: cover;
-  position: absolute;
-  top: 1125px;
-  width: 556px;
-}
-
-.q3 .overlap-group {
-  align-items: flex-end;
-  background-color: var(--white);
-  border-radius: 57px;
+.q3 .group-container {
+  align-items: flex-start;
+  align-self: flex-end;
   display: flex;
-  height: 326px;
-  justify-content: flex-end;
-  left: 958px;
-  min-width: 618px;
-  padding: 40.6px 13px;
-  position: absolute;
-  top: 1101px;
-}
-
-.q3 .lr-yeah-thats-a-v {
-  letter-spacing: 0;
-  min-height: 242px;
-  width: 579px;
-}
-
-.q3 .x2 {
-  height: 2170px;
-  left: 0;
-  object-fit: cover;
-  position: absolute;
-  top: 0;
-  width: 2145px;
-}
-
-.q3 .arrow-2 {
-  cursor: pointer;
-  height: 23px;
-  left: 204px;
-  position: absolute;
-  top: 1509px;
-  width: 53px;
-}
-
-.q3 .arrow-2-1 {
-  cursor: pointer;
-  height: 24px;
-  left: 1512px;
-  position: absolute;
-  top: 1508px;
-  width: 52px;
+  flex-direction: column;
+  min-height: 1170px;
+  width: 735px;
 }
 
 .q3 .group-2 {
   cursor: pointer;
   height: 13px;
-  left: 173px;
-  position: absolute;
-  top: 652px;
   width: 82px;
+}
+
+.q3 .overlap-group-container {
+  align-self: flex-end;
+  height: 1123px;
+  margin-top: 34px;
+  position: relative;
+  width: 728px;
+}
+
+.q3 .overlap-group6 {
+  height: 900px;
+  left: 0;
+  position: absolute;
+  top: 223px;
+  width: 643px;
+}
+
+.q3 .pinkflowerart {
+  height: 664px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 236px;
+  width: 556px;
+}
+
+.q3 .arrow-2 {
+  cursor: pointer;
+  height: 23px;
+  left: 23px;
+  position: absolute;
+  top: 587px;
+  width: 53px;
+}
+
+.q3 .overlap-group1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 57px;
+  display: flex;
+  height: 379px;
+  justify-content: flex-end;
+  left: 25px;
+  min-width: 618px;
+  padding: 47px 13px;
+  position: absolute;
+  top: 0;
+}
+
+.q3 .rw-i-thought-about {
+  letter-spacing: 0;
+  min-height: 281px;
+  width: 579px;
+}
+
+.q3 .overlap-group4 {
+  height: 791px;
+  left: 17px;
+  position: absolute;
+  top: 0;
+  width: 711px;
 }
 
 .q3 .line-3 {
   height: 778px;
-  left: 881px;
+  left: 684px;
   position: absolute;
-  top: 713px;
+  top: 13px;
   width: 4px;
 }
 
 .q3 .component-3 {
   align-items: center;
+  cursor: pointer;
   display: flex;
   height: 49px;
-  left: 197px;
+  left: 0;
   min-width: 711px;
   position: absolute;
-  top: 699px;
+  top: 0;
 }
 
 .q3 .ellipse-3 {
@@ -113,31 +131,11 @@
   width: 647px;
 }
 
-.q3 .overlap-group1 {
-  align-items: flex-end;
-  background-color: var(--white);
-  border-radius: 57px;
-  display: flex;
-  height: 379px;
-  justify-content: flex-end;
-  left: 205px;
-  min-width: 618px;
-  padding: 47px 13px;
-  position: absolute;
-  top: 922px;
-}
-
-.q3 .rw-i-thought-about {
-  letter-spacing: 0;
-  min-height: 281px;
-  width: 579px;
-}
-
 .q3 .overlap-group2 {
   height: 120px;
-  left: 205px;
+  left: 25px;
   position: absolute;
-  top: 762px;
+  top: 63px;
   width: 420px;
 }
 
@@ -159,7 +157,7 @@
   width: 375px;
 }
 
-.q3 .x1 {
+.q3 .pinktape1 {
   height: 51px;
   left: 56px;
   object-fit: cover;
@@ -168,11 +166,55 @@
   width: 283px;
 }
 
-.q3 .x5 {
+.q3 .flex-col {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 33.77px;
+  margin-left: 50px;
+  min-height: 928px;
+  width: 757px;
+}
+
+.q3 .overlap-group5 {
+  height: 823px;
+  position: relative;
+  width: 757px;
+}
+
+.q3 .overlap-group {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 57px;
+  display: flex;
+  height: 326px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 618px;
+  padding: 40.6px 13px;
+  position: absolute;
+  top: 497px;
+}
+
+.q3 .lr-yeah-thats-a-v {
+  letter-spacing: 0;
+  min-height: 242px;
+  width: 579px;
+}
+
+.q3 .pinkwatercolorflower {
   height: 556px;
-  left: 1164px;
+  left: 206px;
   object-fit: cover;
   position: absolute;
-  top: 604px;
+  top: 0;
   width: 552px;
+}
+
+.q3 .arrow-2-1 {
+  cursor: pointer;
+  height: 24px;
+  margin-right: 151.45px;
+  margin-top: 81px;
+  width: 52px;
 }

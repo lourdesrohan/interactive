@@ -25,7 +25,7 @@
   width: 1543px;
 }
 
-.q8 .x1 {
+.q8 .pinksheetofpaper {
   height: 1080px;
   left: 463px;
   object-fit: cover;
@@ -36,6 +36,7 @@
 
 .q8 .component-8 {
   align-items: flex-end;
+  cursor: pointer;
   display: flex;
   height: 49px;
   left: 0;
@@ -120,7 +121,7 @@
   width: 579px;
 }
 
-.q8 .x2 {
+.q8 .pinkpaperstrip {
   height: 262px;
   left: 137px;
   object-fit: cover;
@@ -149,7 +150,7 @@
   width: 579px;
 }
 
-.q8 .x3 {
+.q8 .pinktapeq8 {
   height: 141px;
   left: 152px;
   object-fit: cover;

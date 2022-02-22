@@ -44,6 +44,7 @@
 
 .q7 .component-7 {
   align-items: flex-start;
+  cursor: pointer;
   display: flex;
   height: 49px;
   left: 192px;
@@ -99,7 +100,7 @@
   width: 579px;
 }
 
-.q7 .x2 {
+.q7 .bluetape1 {
   height: 363px;
   left: 0;
   object-fit: cover;
@@ -108,7 +109,7 @@
   width: 367px;
 }
 
-.q7 .x3 {
+.q7 .bluetape2 {
   height: 363px;
   left: 573px;
   object-fit: cover;
@@ -125,7 +126,7 @@
   width: 4px;
 }
 
-.q7 .x3-1 {
+.q7 .bluewaxseal {
   height: 248px;
   left: 287px;
   object-fit: cover;
@@ -181,7 +182,7 @@
   width: 579px;
 }
 
-.q7 .x1 {
+.q7 .stripybluetape {
   height: 168px;
   left: 6px;
   object-fit: cover;

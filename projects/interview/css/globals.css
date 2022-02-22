@@ -3,7 +3,7 @@
 @import url("https://fonts.googleapis.com/css?family=Red+Hat+Mono:400,700,600");
 
 /* The following line is used to measure usage of this code in production. For more info see our usage billing page */
-@import url("https://px.animaapp.com/62153158d98caca3fa34500a.6215315afc449236abfa13b8.ikCCLQP.hcp.png");
+@import url("https://px.animaapp.com/62153158d98caca3fa34500a.6215315afc449236abfa13b8.e931w0A.hcp.png");
 
 .screen a {
   display: contents;
@@ -21,6 +21,10 @@
 .container-center-horizontal > * {
   flex-shrink: 0;
   pointer-events: auto;
+}
+
+.align-self-flex-end {
+  align-self: flex-end;
 }
 
 * {

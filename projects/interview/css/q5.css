@@ -5,7 +5,6 @@
   background-color: var(--pampas);
   display: flex;
   height: 982px;
-  overflow: hidden;
   padding: 0 45px;
   width: 1512px;
 }
@@ -15,7 +14,7 @@
   display: flex;
   flex-direction: column;
   margin-top: 42px;
-  min-height: 979px;
+  min-height: 897px;
   width: 692px;
 }
 
@@ -28,6 +27,7 @@
 .q5 .component-5 {
   align-items: flex-start;
   align-self: flex-end;
+  cursor: pointer;
   display: flex;
   margin-top: 33px;
   min-width: 668px;
@@ -45,67 +45,67 @@
   width: 604px;
 }
 
-.q5 .overlap-group4 {
-  height: 834px;
-  margin-left: 7px;
+.q5 .overlap-group5 {
+  align-self: center;
+  height: 752px;
+  margin-right: 15.26px;
   margin-top: 49px;
   position: relative;
-  width: 648px;
+  width: 651px;
 }
 
-.q5 .arrow-2 {
-  cursor: pointer;
-  height: 23px;
-  left: 23px;
-  position: absolute;
-  top: 712px;
-  width: 53px;
-}
-
-.q5 .overlap-group {
-  height: 834px;
+.q5 .overlap-group-container {
+  height: 752px;
   left: 0;
   position: absolute;
   top: 0;
-  width: 646px;
+  width: 651px;
+}
+
+.q5 .overlap-group {
+  height: 558px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 649px;
 }
 
 .q5 .rectangle-2 {
   background-color: var(--white);
   border-radius: 57px;
   height: 455px;
-  left: 17px;
+  left: 11px;
   position: absolute;
   top: 0;
   width: 618px;
 }
 
 .q5 .rw-this-is-actually {
-  left: 45px;
+  left: 39px;
   letter-spacing: 0;
   position: absolute;
   top: 53px;
   width: 579px;
 }
 
-.q5 .x4 {
-  height: 483px;
+.q5 .goldtape {
+  height: 487px;
   left: 0;
   object-fit: cover;
   position: absolute;
-  top: 351px;
-  width: 646px;
+  top: 71px;
+  width: 649px;
 }
 
 .q5 .overlap-group3 {
   height: 279px;
-  left: 157px;
+  left: 151px;
   position: absolute;
   top: 473px;
   width: 475px;
 }
 
-.q5 .x5 {
+.q5 .sun {
   height: 275px;
   left: 166px;
   object-fit: cover;
@@ -114,13 +114,22 @@
   width: 309px;
 }
 
-.q5 .x1 {
+.q5 .mottsapplesauce {
   height: 272px;
   left: 0;
   object-fit: cover;
   position: absolute;
   top: 7px;
   width: 337px;
+}
+
+.q5 .arrow-2 {
+  cursor: pointer;
+  height: 23px;
+  left: 17px;
+  position: absolute;
+  top: 712px;
+  width: 53px;
 }
 
 .q5 .line-3 {
@@ -165,7 +174,7 @@
   width: 579px;
 }
 
-.q5 .x2 {
+.q5 .yellowtape {
   height: 507px;
   left: 20px;
   object-fit: cover;

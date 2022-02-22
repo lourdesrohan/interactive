@@ -61,6 +61,7 @@
 
 .interview-home .component-1 {
   align-items: center;
+  cursor: pointer;
   display: flex;
   height: 49px;
   left: 0;
@@ -84,6 +85,7 @@
 
 .interview-home .component-6 {
   align-items: center;
+  cursor: pointer;
   display: flex;
   height: 49px;
   left: 0;
@@ -102,6 +104,7 @@
 
 .interview-home .component-2 {
   align-items: center;
+  cursor: pointer;
   display: flex;
   height: 49px;
   left: 0;
@@ -119,6 +122,7 @@
 
 .interview-home .component-3 {
   align-items: center;
+  cursor: pointer;
   display: flex;
   height: 49px;
   left: 0;
@@ -137,6 +141,7 @@
 
 .interview-home .component-8 {
   align-items: flex-end;
+  cursor: pointer;
   display: flex;
   height: 49px;
   left: 0;
@@ -155,6 +160,7 @@
 
 .interview-home .component-4 {
   align-items: center;
+  cursor: pointer;
   display: flex;
   height: 50px;
   left: 0;
@@ -178,6 +184,7 @@
 
 .interview-home .component-9 {
   align-items: flex-end;
+  cursor: pointer;
   display: flex;
   height: 49px;
   left: 0;
@@ -194,7 +201,7 @@
   width: 647px;
 }
 
-.interview-home .line-1 {
+.interview-home .pagedivider {
   height: 778px;
   left: 684px;
   position: absolute;
@@ -204,6 +211,7 @@
 
 .interview-home .component-7 {
   align-items: flex-start;
+  cursor: pointer;
   display: flex;
   height: 49px;
   left: 0;
@@ -221,6 +229,7 @@
 
 .interview-home .component-5 {
   align-items: flex-start;
+  cursor: pointer;
   display: flex;
   height: 50px;
   left: 0;
@@ -246,13 +255,13 @@
   width: 433px;
 }
 
-.interview-home .group-1 {
+.interview-home .ellipses {
   height: 13px;
   margin-left: 1.0px;
   width: 82px;
 }
 
-.interview-home .img_7231-1 {
+.interview-home .rahshemaportrait {
   height: 352px;
   margin-left: 1.0px;
   margin-top: 44px;
