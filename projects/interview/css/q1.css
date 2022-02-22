@@ -1,0 +1,193 @@
+/* screen - q1 */
+
+.q1 {
+  align-items: flex-start;
+  background-color: var(--pampas);
+  display: flex;
+  height: 982px;
+  padding: 0 25.6px;
+  width: 1512px;
+}
+
+.q1 .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 9px;
+  margin-top: 42px;
+  min-height: 880px;
+  width: 745px;
+}
+
+.q1 .group-2 {
+  cursor: pointer;
+  height: 13px;
+  margin-left: 10.0px;
+  width: 82px;
+}
+
+.q1 .overlap-group-container {
+  height: 781px;
+  margin-top: 44px;
+  position: relative;
+  width: 745px;
+}
+
+.q1 .overlap-group3 {
+  height: 781px;
+  left: 34px;
+  position: absolute;
+  top: 0;
+  width: 711px;
+}
+
+.q1 .line-1 {
+  height: 778px;
+  left: 686px;
+  position: absolute;
+  top: 3px;
+  width: 4px;
+}
+
+.q1 .component-1 {
+  align-items: center;
+  display: flex;
+  height: 49px;
+  left: 0;
+  min-width: 711px;
+  position: absolute;
+  top: 0;
+}
+
+.q1 .ellipse-1 {
+  height: 49px;
+  width: 49px;
+}
+
+.q1 .summarize-who-you-ar {
+  letter-spacing: 0;
+  margin-bottom: 2.0px;
+  margin-left: 15px;
+  min-height: 33px;
+  width: 647px;
+}
+
+.q1 .overlap-group {
+  height: 475px;
+  left: 0;
+  position: absolute;
+  top: 147px;
+  width: 712px;
+}
+
+.q1 .rectangle-2 {
+  background-color: var(--white);
+  border-radius: 57px;
+  height: 379px;
+  left: 47px;
+  position: absolute;
+  top: 0;
+  width: 618px;
+}
+
+.q1 .rw-i-think-just-lik {
+  left: 74px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 62px;
+  width: 579px;
+}
+
+.q1 .image-3 {
+  height: 157px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 318px;
+  width: 712px;
+}
+
+.q1 .arrow-2 {
+  cursor: pointer;
+  height: 23px;
+  margin-left: 40.5px;
+  margin-top: 18px;
+  width: 53px;
+}
+
+.q1 .flex-col-1 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 37px;
+  margin-top: 48.89px;
+  min-height: 873px;
+  width: 669px;
+}
+
+.q1 .overlap-group2 {
+  height: 799px;
+  position: relative;
+  width: 669px;
+}
+
+.q1 .image-2 {
+  height: 356px;
+  left: 311px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 358px;
+}
+
+.q1 .image-1 {
+  height: 230px;
+  left: 414px;
+  object-fit: cover;
+  position: absolute;
+  top: 110px;
+  width: 236px;
+}
+
+.q1 .overlap-group1 {
+  height: 483px;
+  left: 0;
+  position: absolute;
+  top: 316px;
+  width: 618px;
+}
+
+.q1 .rectangle-1 {
+  background-color: var(--white);
+  border-radius: 57px;
+  height: 379px;
+  left: 0;
+  position: absolute;
+  top: 104px;
+  width: 618px;
+}
+
+.q1 .lr-beautiful-that {
+  left: 30px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 169px;
+  width: 579px;
+}
+
+.q1 .image-4 {
+  height: 187px;
+  left: 226px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 188px;
+}
+
+.q1 .arrow-2-1 {
+  cursor: pointer;
+  height: 24px;
+  margin-right: 50.42px;
+  margin-top: 50px;
+  width: 52px;
+}

@@ -1,0 +1,214 @@
+/* screen - q6 */
+
+.q6 {
+  align-items: flex-start;
+  background-color: var(--pampas);
+  display: flex;
+  height: 982px;
+  padding: 0 45px;
+  width: 1512px;
+}
+
+.q6 .group-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 42px;
+  min-height: 939px;
+  width: 735px;
+}
+
+.q6 .group-2 {
+  cursor: pointer;
+  height: 13px;
+  width: 82px;
+}
+
+.q6 .overlap-group5 {
+  align-self: flex-end;
+  height: 905px;
+  margin-top: 21px;
+  position: relative;
+  width: 711px;
+}
+
+.q6 .overlap-group4 {
+  height: 905px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 711px;
+}
+
+.q6 .x1 {
+  height: 446px;
+  left: 264px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 446px;
+}
+
+.q6 .component-6 {
+  align-items: center;
+  display: flex;
+  height: 49px;
+  left: 0;
+  min-width: 711px;
+  position: absolute;
+  top: 13px;
+}
+
+.q6 .ellipse-7 {
+  height: 49px;
+  width: 49px;
+}
+
+.q6 .what-do-you-like-most-about-yourself {
+  letter-spacing: 0;
+  margin-left: 15px;
+  margin-top: 6.0px;
+  min-height: 33px;
+  width: 647px;
+}
+
+.q6 .line-3 {
+  height: 778px;
+  left: 684px;
+  position: absolute;
+  top: 26px;
+  width: 4px;
+}
+
+.q6 .overlap-group1 {
+  height: 94px;
+  left: 28px;
+  position: absolute;
+  top: 122px;
+  width: 253px;
+}
+
+.q6 .rectangle-2 {
+  background-color: var(--white);
+  border-radius: 57px;
+  height: 94px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 236px;
+}
+
+.q6 .rw-its-hard {
+  left: 42px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 34px;
+  width: 211px;
+}
+
+.q6 .overlap-group2 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 57px;
+  display: flex;
+  height: 142px;
+  justify-content: flex-end;
+  left: 28px;
+  min-width: 579px;
+  padding: 28.0px 21.0px;
+  position: absolute;
+  top: 243px;
+}
+
+.q6 .lr-im-so-sorry-i {
+  letter-spacing: 0;
+  min-height: 77px;
+  width: 517px;
+}
+
+.q6 .overlap-group3 {
+  height: 520px;
+  left: 101px;
+  position: absolute;
+  top: 385px;
+  width: 486px;
+}
+
+.q6 .x5 {
+  height: 520px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 454px;
+}
+
+.q6 .x2 {
+  height: 297px;
+  left: 116px;
+  object-fit: cover;
+  position: absolute;
+  top: 152px;
+  width: 370px;
+}
+
+.q6 .arrow-2 {
+  cursor: pointer;
+  height: 23px;
+  left: 6px;
+  position: absolute;
+  top: 823px;
+  width: 53px;
+}
+
+.q6 .flex-col {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 54px;
+  margin-top: 148px;
+  min-height: 774px;
+  width: 620px;
+}
+
+.q6 .overlap-group {
+  height: 612px;
+  margin-right: 2px;
+  position: relative;
+  width: 618px;
+}
+
+.q6 .rectangle-2-1 {
+  background-color: var(--white);
+  border-radius: 57px;
+  height: 539px;
+  left: 0;
+  position: absolute;
+  top: 73px;
+  width: 618px;
+}
+
+.q6 .rw-um-i-think-the {
+  left: 27px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 133px;
+  width: 579px;
+}
+
+.q6 .x4 {
+  height: 144px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 453px;
+}
+
+.q6 .arrow-2-1 {
+  cursor: pointer;
+  height: 24px;
+  margin-right: 18px;
+  margin-top: 138px;
+  width: 52px;
+}

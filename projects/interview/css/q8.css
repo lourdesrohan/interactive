@@ -1,0 +1,177 @@
+/* screen - q8 */
+
+.q8 {
+  align-items: flex-start;
+  background-color: var(--pampas);
+  display: flex;
+  height: 982px;
+  overflow: hidden;
+  width: 1512px;
+}
+
+.q8 .overlap-group4 {
+  height: 1080px;
+  margin-left: 45px;
+  margin-top: -49px;
+  position: relative;
+  width: 1567px;
+}
+
+.q8 .overlap-group3 {
+  height: 1080px;
+  left: 24px;
+  position: absolute;
+  top: 0;
+  width: 1543px;
+}
+
+.q8 .x1 {
+  height: 1080px;
+  left: 463px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1080px;
+}
+
+.q8 .component-8 {
+  align-items: flex-end;
+  display: flex;
+  height: 49px;
+  left: 0;
+  min-width: 711px;
+  position: absolute;
+  top: 138px;
+}
+
+.q8 .ellipse-9 {
+  height: 49px;
+  width: 49px;
+}
+
+.q8 .what-is-your-relationship-with-art {
+  letter-spacing: 0;
+  margin-bottom: 2px;
+  margin-left: 15px;
+  min-height: 33px;
+  width: 647px;
+}
+
+.q8 .arrow-2 {
+  cursor: pointer;
+  height: 24px;
+  left: 1315px;
+  position: absolute;
+  top: 947px;
+  width: 52px;
+}
+
+.q8 .line-3 {
+  height: 778px;
+  left: 684px;
+  position: absolute;
+  top: 151px;
+  width: 4px;
+}
+
+.q8 .overlap-group {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 57px;
+  display: flex;
+  height: 648px;
+  justify-content: flex-end;
+  left: 6px;
+  min-width: 618px;
+  padding: 41px 14px;
+  position: absolute;
+  top: 249px;
+}
+
+.q8 .rw-i-feel-like-art {
+  letter-spacing: 0;
+  min-height: 386px;
+  width: 579px;
+}
+
+.q8 .overlap-group1 {
+  height: 484px;
+  left: 748px;
+  position: absolute;
+  top: 484px;
+  width: 618px;
+}
+
+.q8 .rectangle-2 {
+  background-color: var(--white);
+  border-radius: 57px;
+  height: 342px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 618px;
+}
+
+.q8 .lr-eah-thats-very {
+  left: 28px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 47px;
+  width: 579px;
+}
+
+.q8 .x2 {
+  height: 262px;
+  left: 137px;
+  object-fit: cover;
+  position: absolute;
+  top: 222px;
+  width: 344px;
+}
+
+.q8 .overlap-group2 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 57px;
+  display: flex;
+  height: 221px;
+  justify-content: flex-end;
+  left: 748px;
+  min-width: 618px;
+  padding: 24px 19px;
+  position: absolute;
+  top: 207px;
+}
+
+.q8 .so-i-guess-my-rel {
+  letter-spacing: 0;
+  min-height: 151px;
+  width: 579px;
+}
+
+.q8 .x3 {
+  height: 141px;
+  left: 152px;
+  object-fit: cover;
+  position: absolute;
+  top: 177px;
+  width: 311px;
+}
+
+.q8 .arrow-2-1 {
+  cursor: pointer;
+  height: 23px;
+  left: 30px;
+  position: absolute;
+  top: 948px;
+  width: 53px;
+}
+
+.q8 .group-2 {
+  cursor: pointer;
+  height: 13px;
+  left: 0;
+  position: absolute;
+  top: 91px;
+  width: 82px;
+}

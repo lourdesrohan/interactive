@@ -1,0 +1,196 @@
+/* screen - q2 */
+
+.q2 {
+  align-items: flex-start;
+  background-color: var(--pampas);
+  display: flex;
+  height: 982px;
+  padding: 0 45px;
+  width: 1512px;
+}
+
+.q2 .group-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 42px;
+  min-height: 921px;
+  width: 644px;
+}
+
+.q2 .group-2 {
+  cursor: pointer;
+  height: 13px;
+  width: 82px;
+}
+
+.q2 .overlap-group4 {
+  align-self: flex-end;
+  height: 786px;
+  margin-top: 122px;
+  position: relative;
+  width: 620px;
+}
+
+.q2 .arrow-2 {
+  cursor: pointer;
+  height: 23px;
+  left: 6px;
+  position: absolute;
+  top: 722px;
+  width: 53px;
+}
+
+.q2 .overlap-group3 {
+  height: 786px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 620px;
+}
+
+.q2 .overlap-group {
+  height: 422px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 618px;
+}
+
+.q2 .rectangle-2 {
+  background-color: var(--white);
+  border-radius: 57px;
+  height: 379px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 618px;
+}
+
+.q2 .rw-my-dream-job-was {
+  left: 27px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 52px;
+  width: 579px;
+}
+
+.q2 .blue-diamond-washi-t {
+  height: 86px;
+  left: 81px;
+  object-fit: cover;
+  position: absolute;
+  top: 336px;
+  width: 456px;
+}
+
+.q2 .untitled-design-2 {
+  height: 379px;
+  left: 250px;
+  object-fit: cover;
+  position: absolute;
+  top: 407px;
+  width: 368px;
+}
+
+.q2 .untitled-design-1 {
+  height: 204px;
+  left: 40px;
+  object-fit: cover;
+  position: absolute;
+  top: 453px;
+  width: 165px;
+}
+
+.q2 .line-2 {
+  height: 778px;
+  margin-left: 64px;
+  margin-top: 102.5px;
+  width: 4px;
+}
+
+.q2 .flex-col {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 66px;
+  margin-top: 15.99px;
+  min-height: 906px;
+  width: 620px;
+}
+
+.q2 .overlap-group2 {
+  height: 851px;
+  position: relative;
+  width: 620px;
+}
+
+.q2 .overlap-group1 {
+  height: 537px;
+  left: 0;
+  position: absolute;
+  top: 315px;
+  width: 618px;
+}
+
+.q2 .rectangle-2-1 {
+  background-color: var(--white);
+  border-radius: 57px;
+  height: 379px;
+  left: 0;
+  position: absolute;
+  top: 158px;
+  width: 618px;
+}
+
+.q2 .lr-oh-my-god-that {
+  left: 27px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 210px;
+  width: 579px;
+}
+
+.q2 .ps_elif-sahin_77894_ {
+  height: 312px;
+  left: 237px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.q2 .blue-icing-cupcake-1 {
+  height: 327px;
+  left: 177px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 324px;
+}
+
+.q2 .x586ab2641fdce414493f5110-1 {
+  height: 225px;
+  left: 367px;
+  object-fit: cover;
+  position: absolute;
+  top: 86px;
+  width: 220px;
+}
+
+.q2 .untitled-design {
+  height: 127px;
+  left: 96px;
+  object-fit: cover;
+  position: absolute;
+  top: 198px;
+  width: 108px;
+}
+
+.q2 .arrow-2-1 {
+  cursor: pointer;
+  height: 24px;
+  margin-right: 7px;
+  margin-top: 31px;
+  width: 52px;
+}

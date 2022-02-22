@@ -1,0 +1,291 @@
+/* screen - interview-home */
+
+.interview-home {
+  align-items: flex-end;
+  background-color: #f5efee;
+  display: flex;
+  flex-direction: column;
+  height: 982px;
+  padding: 40px 63px;
+  width: 1512px;
+}
+
+.interview-home .place {
+  letter-spacing: 0;
+  min-height: 29px;
+  text-align: right;
+  width: 60px;
+}
+
+.interview-home .flex-row {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  margin-right: 50.0px;
+  min-width: 1258px;
+}
+
+.interview-home .overlap-group1 {
+  height: 811px;
+  position: relative;
+  width: 711px;
+}
+
+.interview-home .title {
+  color: var(--black);
+  font-family: var(--font-family-red_hat_mono);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 494px;
+}
+
+.interview-home .an-interview-on-crea {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 93px;
+  width: 647px;
+}
+
+.interview-home .overlap-group {
+  height: 778px;
+  left: 0;
+  position: absolute;
+  top: 33px;
+  width: 711px;
+}
+
+.interview-home .component-1 {
+  align-items: center;
+  display: flex;
+  height: 49px;
+  left: 0;
+  min-width: 711px;
+  position: absolute;
+  top: 151px;
+}
+
+.interview-home .ellipse {
+  height: 49px;
+  width: 49px;
+}
+
+.interview-home .summarize-who-you-ar {
+  letter-spacing: 0;
+  margin-bottom: 2.0px;
+  margin-left: 15px;
+  min-height: 33px;
+  width: 647px;
+}
+
+.interview-home .component-6 {
+  align-items: center;
+  display: flex;
+  height: 49px;
+  left: 0;
+  min-width: 711px;
+  position: absolute;
+  top: 487px;
+}
+
+.interview-home .what-do-you-like-most-about-yourself {
+  letter-spacing: 0;
+  margin-left: 15px;
+  margin-top: 6.0px;
+  min-height: 33px;
+  width: 647px;
+}
+
+.interview-home .component-2 {
+  align-items: center;
+  display: flex;
+  height: 49px;
+  left: 0;
+  min-width: 711px;
+  position: absolute;
+  top: 218px;
+}
+
+.interview-home .what-was-your-dream-job-as-a-child {
+  letter-spacing: 0;
+  margin-left: 15px;
+  min-height: 33px;
+  width: 647px;
+}
+
+.interview-home .component-3 {
+  align-items: center;
+  display: flex;
+  height: 49px;
+  left: 0;
+  min-width: 711px;
+  position: absolute;
+  top: 284px;
+}
+
+.interview-home .what-is-your-dream-job-now {
+  letter-spacing: 0;
+  margin-left: 15px;
+  margin-top: 4.0px;
+  min-height: 33px;
+  width: 647px;
+}
+
+.interview-home .component-8 {
+  align-items: flex-end;
+  display: flex;
+  height: 49px;
+  left: 0;
+  min-width: 711px;
+  position: absolute;
+  top: 620px;
+}
+
+.interview-home .what-is-your-relationship-with-art {
+  letter-spacing: 0;
+  margin-bottom: 2px;
+  margin-left: 15px;
+  min-height: 33px;
+  width: 647px;
+}
+
+.interview-home .component-4 {
+  align-items: center;
+  display: flex;
+  height: 50px;
+  left: 0;
+  min-width: 711px;
+  position: absolute;
+  top: 351px;
+}
+
+.interview-home .ellipse-1 {
+  height: 50px;
+  width: 49px;
+}
+
+.interview-home .describe-what-joy-fe {
+  letter-spacing: 0;
+  margin-left: 15px;
+  margin-top: 5.0px;
+  min-height: 33px;
+  width: 647px;
+}
+
+.interview-home .component-9 {
+  align-items: flex-end;
+  display: flex;
+  height: 49px;
+  left: 0;
+  min-width: 711px;
+  position: absolute;
+  top: 687px;
+}
+
+.interview-home .any-parting-words-of-wisdom {
+  letter-spacing: 0;
+  margin-bottom: 1px;
+  margin-left: 15px;
+  min-height: 33px;
+  width: 647px;
+}
+
+.interview-home .line-1 {
+  height: 778px;
+  left: 684px;
+  position: absolute;
+  top: 0;
+  width: 4px;
+}
+
+.interview-home .component-7 {
+  align-items: flex-start;
+  display: flex;
+  height: 49px;
+  left: 0;
+  min-width: 640px;
+  position: absolute;
+  top: 586px;
+}
+
+.interview-home .do-you-have-a-favori {
+  letter-spacing: 0;
+  margin-left: 15px;
+  min-height: 33px;
+  width: 576px;
+}
+
+.interview-home .component-5 {
+  align-items: flex-start;
+  display: flex;
+  height: 50px;
+  left: 0;
+  min-width: 668px;
+  position: absolute;
+  top: 452px;
+}
+
+.interview-home .if-you-could-have-a {
+  letter-spacing: 0;
+  margin-left: 15px;
+  min-height: 33px;
+  width: 604px;
+}
+
+.interview-home .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 31.5px;
+  margin-left: 114px;
+  min-height: 594px;
+  width: 433px;
+}
+
+.interview-home .group-1 {
+  height: 13px;
+  margin-left: 1.0px;
+  width: 82px;
+}
+
+.interview-home .img_7231-1 {
+  height: 352px;
+  margin-left: 1.0px;
+  margin-top: 44px;
+  object-fit: cover;
+  width: 352px;
+}
+
+.interview-home .rahshemah-wise-they {
+  letter-spacing: 0;
+  margin-top: 48px;
+  min-height: 137px;
+  text-align: justify;
+  width: 433px;
+}
+
+.interview-home .span-1 {
+  text-decoration: underline;
+}
+
+.interview-home .arrow-1 {
+  cursor: pointer;
+  height: 24px;
+  margin-right: 17px;
+  margin-top: 15px;
+  width: 52px;
+}
+
+.interview-home .design-dev-by-lourdes-rohan {
+  align-self: center;
+  letter-spacing: 0;
+  margin-left: 62.0px;
+  margin-top: 9px;
+  min-height: 33px;
+  text-align: center;
+  width: 338px;
+}

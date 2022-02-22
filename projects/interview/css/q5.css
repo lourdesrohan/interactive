@@ -1,0 +1,209 @@
+/* screen - q5 */
+
+.q5 {
+  align-items: flex-start;
+  background-color: var(--pampas);
+  display: flex;
+  height: 982px;
+  overflow: hidden;
+  padding: 0 45px;
+  width: 1512px;
+}
+
+.q5 .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 42px;
+  min-height: 979px;
+  width: 692px;
+}
+
+.q5 .group-2 {
+  cursor: pointer;
+  height: 13px;
+  width: 82px;
+}
+
+.q5 .component-5 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  margin-top: 33px;
+  min-width: 668px;
+}
+
+.q5 .ellipse-5 {
+  height: 50px;
+  width: 49px;
+}
+
+.q5 .if-you-could-have-a {
+  letter-spacing: 0;
+  margin-left: 15px;
+  min-height: 33px;
+  width: 604px;
+}
+
+.q5 .overlap-group4 {
+  height: 834px;
+  margin-left: 7px;
+  margin-top: 49px;
+  position: relative;
+  width: 648px;
+}
+
+.q5 .arrow-2 {
+  cursor: pointer;
+  height: 23px;
+  left: 23px;
+  position: absolute;
+  top: 712px;
+  width: 53px;
+}
+
+.q5 .overlap-group {
+  height: 834px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 646px;
+}
+
+.q5 .rectangle-2 {
+  background-color: var(--white);
+  border-radius: 57px;
+  height: 455px;
+  left: 17px;
+  position: absolute;
+  top: 0;
+  width: 618px;
+}
+
+.q5 .rw-this-is-actually {
+  left: 45px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 53px;
+  width: 579px;
+}
+
+.q5 .x4 {
+  height: 483px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 351px;
+  width: 646px;
+}
+
+.q5 .overlap-group3 {
+  height: 279px;
+  left: 157px;
+  position: absolute;
+  top: 473px;
+  width: 475px;
+}
+
+.q5 .x5 {
+  height: 275px;
+  left: 166px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 309px;
+}
+
+.q5 .x1 {
+  height: 272px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 337px;
+}
+
+.q5 .line-3 {
+  height: 778px;
+  margin-left: 16px;
+  margin-top: 102.5px;
+  width: 4px;
+}
+
+.q5 .flex-col-1 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 77px;
+  margin-top: -80.0px;
+  min-height: 1002px;
+  width: 628px;
+}
+
+.q5 .overlap-group1 {
+  align-self: flex-start;
+  height: 507px;
+  position: relative;
+  width: 618px;
+}
+
+.q5 .rectangle-2-1 {
+  background-color: var(--white);
+  border-radius: 57px;
+  height: 230px;
+  left: 0;
+  position: absolute;
+  top: 267px;
+  width: 618px;
+}
+
+.q5 .lr-thats-a-great-a {
+  left: 27px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 296px;
+  width: 579px;
+}
+
+.q5 .x2 {
+  height: 507px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 513px;
+}
+
+.q5 .overlap-group2 {
+  height: 327px;
+  margin-right: 2px;
+  margin-top: 82px;
+  position: relative;
+  width: 618px;
+}
+
+.q5 .rectangle-2-2 {
+  background-color: var(--white);
+  border-radius: 57px;
+  height: 316px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 618px;
+}
+
+.q5 .rw-a-bucket-that-ju {
+  left: 31px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 37px;
+  width: 579px;
+}
+
+.q5 .arrow-2-1 {
+  cursor: pointer;
+  height: 24px;
+  margin-right: 26px;
+  margin-top: 62px;
+  width: 52px;
+}

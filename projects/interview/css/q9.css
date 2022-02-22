@@ -1,0 +1,192 @@
+/* screen - q9 */
+
+.q9 {
+  align-items: flex-start;
+  background-color: var(--pampas);
+  display: flex;
+  height: 982px;
+  overflow: hidden;
+  width: 1512px;
+}
+
+.q9 .group-container {
+  height: 871px;
+  margin-left: 62px;
+  margin-top: 89px;
+  position: relative;
+  width: 1452px;
+}
+
+.q9 .overlap-group6 {
+  height: 871px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1452px;
+}
+
+.q9 .overlap-group5 {
+  height: 791px;
+  left: 7px;
+  position: absolute;
+  top: 0;
+  width: 1445px;
+}
+
+.q9 .component-9 {
+  align-items: flex-end;
+  display: flex;
+  height: 49px;
+  left: 0;
+  min-width: 711px;
+  position: absolute;
+  top: 0;
+}
+
+.q9 .ellipse-10 {
+  height: 49px;
+  width: 49px;
+}
+
+.q9 .any-parting-words-of-wisdom {
+  letter-spacing: 0;
+  margin-bottom: 1px;
+  margin-left: 15px;
+  min-height: 33px;
+  width: 647px;
+}
+
+.q9 .line-3 {
+  height: 778px;
+  left: 684px;
+  position: absolute;
+  top: 13px;
+  width: 4px;
+}
+
+.q9 .overlap-group1 {
+  height: 409px;
+  left: 671px;
+  position: absolute;
+  top: 14px;
+  width: 772px;
+}
+
+.q9 .rectangle-2 {
+  background-color: var(--white);
+  border-radius: 57px;
+  height: 319px;
+  left: 82px;
+  position: absolute;
+  top: 90px;
+  width: 618px;
+}
+
+.q9 .so-like-nothing-m {
+  left: 119px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 137px;
+  width: 579px;
+}
+
+.q9 .x1 {
+  height: 149px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 772px;
+}
+
+.q9 .arrow-2 {
+  cursor: pointer;
+  height: 23px;
+  left: 13px;
+  position: absolute;
+  top: 810px;
+  width: 53px;
+}
+
+.q9 .overlap-group4 {
+  height: 767px;
+  left: 0;
+  position: absolute;
+  top: 104px;
+  width: 678px;
+}
+
+.q9 .overlap-group {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 57px;
+  display: flex;
+  height: 539px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 618px;
+  padding: 46px 5px;
+  position: absolute;
+  top: 0;
+}
+
+.q9 .rw-like-in-the-leas {
+  letter-spacing: 0;
+  min-height: 445px;
+  width: 579px;
+}
+
+.q9 .x5 {
+  height: 342px;
+  left: 205px;
+  object-fit: cover;
+  position: absolute;
+  top: 425px;
+  width: 473px;
+}
+
+.q9 .overlap-group3 {
+  height: 198px;
+  left: 760px;
+  position: absolute;
+  top: 450px;
+  width: 618px;
+}
+
+.q9 .overlap-group2 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 57px;
+  display: flex;
+  height: 142px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 616px;
+  padding: 28.0px 22.3px;
+  position: absolute;
+  top: 56px;
+}
+
+.q9 .lr-oh-my-god-that {
+  letter-spacing: 0;
+  min-height: 77px;
+  width: 550px;
+}
+
+.q9 .x2 {
+  height: 109px;
+  left: 185px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 237px;
+}
+
+.q9 .group-12 {
+  cursor: pointer;
+  height: 13px;
+  left: 1296px;
+  position: absolute;
+  top: 814px;
+  width: 82px;
+}

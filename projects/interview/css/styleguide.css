@@ -1,0 +1,46 @@
+:root { 
+  --black: #000000;
+  --pampas: #f5f0ee;
+  --white: #ffffff;
+ 
+  --font-size-l: 73px;
+  --font-size-m: 18px;
+  --font-size-s: 12px;
+ 
+  --font-family-red_hat_mono: "Red Hat Mono", Helvetica;
+}
+.redhatmono-normal-black-18px {
+  color: var(--black);
+  font-family: var(--font-family-red_hat_mono);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.redhatmono-bold-black-18px {
+  color: var(--black);
+  font-family: var(--font-family-red_hat_mono);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.redhatmono-semi-bold-black-18px {
+  color: var(--black);
+  font-family: var(--font-family-red_hat_mono);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.redhatmono-normal-black-12px {
+  color: var(--black);
+  font-family: var(--font-family-red_hat_mono);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.border-1px-black {
+  border: 1px solid var(--black);
+}
