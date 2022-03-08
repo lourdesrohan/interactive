@@ -4,11 +4,11 @@ html {background-color: floralwhite}
 @import url("https://use.typekit.net/emk7jfr.css");
 
 .message{
-	font-size: 300px;
+	font-size: 200px;
 	font-family: lores-12, sans-serif;
 	font-weight: 700;
 	font-style: normal;
-	color: hanpurple;
+	color: #5218FA;
 	display: flex;
 	align-items: center;
 	justify-content: center;
