@@ -1,0 +1,42 @@
+@import url("https://use.typekit.net/emk7jfr.css");
+@import url("https://use.typekit.net/emk7jfr.css");
+
+html {background-image: url("https://ipfs.io/ipfs/QmVRN7XfgShfScGFmzx1hyeMskxLE4fMHqdntKqh1SxYm8")}
+
+
+#qanda{
+	font-family: museo, serif;
+	font-weight: 300;
+	font-size: 20px;
+  width: 400px;
+  height: 150px;
+  display: flex;
+  margin:  auto;
+  margin-top: 10vw;
+	border: 5px solid #FFFF00;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+	color:  floralwhite;
+}
+
+.message{
+	font-family: museo, serif;
+	font-weight: 300;
+	display: flex;
+  margin: auto;
+  margin-top: 15vw;
+  padding: 10px;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+	color:  floralwhite;
+}
+
+a {
+  color: #D5F591;
+}
+
+a:visited {
+  color: #BFA8BB;
+}
