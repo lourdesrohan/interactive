@@ -1,0 +1,44 @@
+<html> 
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Tool</title>
+    <link rel="icon" type="image/png" href="images/icon.png"/>
+    <link rel="stylesheet" href="toolstyle.css">
+  </head>
+<body>
+  <br>
+  <div>
+    <h1 id="theprompt">toggle your vibe (or choose both) then launch</h1>
+  </div>
+  <br>
+<input type="button" id= "launch" class="button" value="lets get funky">
+<br>
+<div id= "vibes">what are the vibes?</div>
+<br>
+
+<section class="options">
+<div>
+<label class="switch" id="tame">
+  <input type="checkbox">
+  <span class="slider round"></span>
+</label>
+<br>
+tame</div>
+<div>
+<label class="switch" id="spicy">
+  <input type="checkbox">
+  <span class="slider round"></span>
+</label>
+<br>
+spicy</div>
+</section>
+<div class="gradient"></div>
+
+    <!-- Scripts go at the bottom of your <body> element, below your HTML.
+      Here's a link to the jquery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+    <!-- And here's a link to our javascript, written in an external js file called main.js -->
+    <script src="tooljava.js"></script>
+  </html>
