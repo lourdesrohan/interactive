@@ -48,7 +48,7 @@ body {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #ccc;
+  background-color: #3a0ddb;
   -webkit-transition: .4s;
   transition: .4s;
 }
@@ -66,11 +66,11 @@ body {
 }
 
 input:checked + .slider {
-  background-color: #9010e6;
+  background-color: #db0d4b;
 }
 
 input:focus + .slider {
-  box-shadow: 0 0 1px #2196F3;
+  box-shadow: 0 0 1px #db0d4b;
 }
 
 input:checked + .slider:before {

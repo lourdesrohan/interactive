@@ -1,4 +1,4 @@
-var prompts = ["What object, person, animal or situation is happiness? What about grief? Hope? (Emily Dickinson thought it was 'the thing with feathers ...') How about fear?",
+var sober = ["What object, person, animal or situation is happiness? What about grief? Hope? (Emily Dickinson thought it was 'the thing with feathers ...') How about fear?",
 "What dream have you never forgotten and why do you think this remains a conscious memory?",
 "What olympic event would you do, if you could do any, no previous experience or talent required?",
 "What is your most memorable experience involving an animal?",
@@ -138,9 +138,9 @@ var prompts = ["What object, person, animal or situation is happiness? What abou
 "Sit in a spinning chair and have the group spin you for 30 seconds.",
 "Dance with no music for 1 minute.",
 "Imitate popular YouTube videos until someone can guess the video you are imitating.",
-"Make up a 30-second opera about a person or people in the group and perform it.",
-"Can you daydream at night?",
-"Which came first, the plant or the seed?",
+"Make up a 30-second opera about a person or people in the group and perform it."];
+
+var notsober = ["Can you daydream at night?", "Which came first, the plant or the seed?",
 "If actions speak louder than words, is speaking also an action?",
 "Does being “up” for something mean the same thing as being “down” for something?",
 "What time is it not?",
@@ -313,13 +313,55 @@ var prompts = ["What object, person, animal or situation is happiness? What abou
 "Do pushups until you can’t do any more. If none, same.",
 "Swap clothes with someone for 2 rounds.",];																							
 
-var range = prompts.length;
+var soberrange = sober.length;
+var notsoberrange = notsober.length;
+var vibe;
 
-$(launch).click(function(){
-  var index = Math.floor(Math.random() * range);
-  var prompt_src= prompts[index];
-    $("#theprompt").html(prompt_src);
+// $('#vibetoggle').change(function(){
+//   if ($(this).is(':checked')) {
+// 	vibe.push("checked");
+//   } else {
+// 	vibe.push("unchecked");
+// 	};
+// })
 
-})
- 
+// currentvibe= console.log(vibe[vibe.length - 1]);
+
+// if (currentvibe == 'checked'){
+// $("#launch").click(function(){
+//   var soberindex = Math.floor(Math.random() * soberrange);
+//   var soberprompt= sober[soberindex];
+//     $("#theprompt").html(soberprompt);
+// })
+// } else {
+// $("#launch").click(function(){
+//   var notsoberindex = Math.floor(Math.random() * notsoberrange);
+//   var notsoberprompt= notsober[notsoberindex];
+//     $("#theprompt").html(notsoberprompt);
+// });
+// }
+
+$("#launch").click(function(){
+
+	console.log("click");
+
+	var current_vibe = document.querySelector('#vibetoggle');
+
+	console.log(current_vibe.checked);
+
+   if (current_vibe.checked == false) {
+   	var soberindex = Math.floor(Math.random() * soberrange);
+  	var soberprompt= sober[soberindex];
+    $("#theprompt").html(soberprompt);
+    console.log("sober");
+   } else {
+   	var notsoberindex = Math.floor(Math.random() * notsoberrange);
+  	var notsoberprompt= notsober[notsoberindex];
+    $("#theprompt").html(notsoberprompt);
+    console.log("notsober");
+   }
+  
+});
+
+
 
