@@ -1,0 +1,52 @@
+ @import url("https://use.typekit.net/atq8bup.css");
+
+html {
+  background: url("https://data.whicdn.com/images/306083177/original.gif")
+  no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#slide {
+  position: absolute;
+  left: 50%;
+  top: 60%;
+  transform: translate(-50%, -50%);
+  height:500px ;
+  width:1200px ;
+}
+
+#slide-text {
+font-family: lakato-stencil-pro;
+color: #00F93A;
+font-size: 60px;
+}
+
+#hey {
+  background-color: #4A15BC;
+  border: none;
+  color: #00F93A;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 50%;
+  position: absolute;
+  top: 5px;
+  left: 5px;
+}
+
+.button:hover {
+  background-color: #9661EC;
+}
+
+.footnote {
+  position: fixed;
+  bottom: 2px;
+  left: 1px;
+}
+
